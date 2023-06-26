@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anmol Gaur</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center"><i><b>An emerging web developer from India</b></i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolgaur7&label=Profile%20views&color=0e75b6&style=flat" alt="anmolgaur7" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6M8G.gif"/>
-<p align="left"> <a href="https://twitter.com/anmolga42675126" target="blank"><img src="https://img.shields.io/twitter/follow/anmolga42675126?logo=twitter&style=for-the-badge" alt="anmolga42675126" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+
 
 - 🔭 I’m currently working on [HalaNote](https://github.com/Anmolgaur7/halanote)
 
@@ -12,7 +12,7 @@
 - 💬 Ask me about **REACT, Android dev with Jetpack Compose**
 
 - 📫 How to reach me **anmolgaur87@gmail.com**
-
+<p align="left"> <a href="https://twitter.com/anmolga42675126" target="blank"><img src="https://img.shields.io/twitter/follow/anmolga42675126?logo=twitter&style=for-the-badge" alt="anmolga42675126" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anmolga42675126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmolga42675126" height="30" width="40" /></a>
