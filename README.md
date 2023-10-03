@@ -12,10 +12,13 @@
 - 💬 Ask me about **REACT, Android dev with Jetpack Compose**
 
 - 📫 How to reach me **anmolgaur87@gmail.com**
+
+<a href="https://holopin.io/@anmolgaur7">Holopin</a> 
 <p align="left"> <a href="https://twitter.com/anmolga42675126" target="blank"><img src="https://img.shields.io/twitter/follow/anmolga42675126?logo=twitter&style=for-the-badge" alt="anmolga42675126" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anmolga42675126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmolga42675126" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/anmolgaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmolgaur" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/anmolgaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anmolgaur" height="30" width="40" /></a>
