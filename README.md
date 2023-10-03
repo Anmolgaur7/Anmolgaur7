@@ -12,8 +12,6 @@
 - 💬 Ask me about **REACT, Android dev with Jetpack Compose**
 
 - 📫 How to reach me **anmolgaur87@gmail.com**
-
-<a href="https://holopin.io/@anmolgaur7">Holopin</a> 
 <p align="left"> <a href="https://twitter.com/anmolga42675126" target="blank"><img src="https://img.shields.io/twitter/follow/anmolga42675126?logo=twitter&style=for-the-badge" alt="anmolga42675126" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolgaur7&show_icons=true&locale=en&layout=compact" alt="anmolgaur7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolgaur7&show_icons=true&locale=en" alt="anmolgaur7" /></p>
+[![An image of @anmolgaur7's Holopin badges](https://holopin.me/anmolgaur7)](https://holopin.io/@anmolgaur7)
 
