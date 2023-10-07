@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HalaNote](https://github.com/Anmolgaur7/halanote)and [Bookmania](https://github.com/Anmolgaur7/bookmania)
 
-- 🌱 I’m currently learning **M E RN**
+- 🌱 I’m currently learning **M E R N**
 
 - 💬 Ask me about **REACT, Android dev with Jetpack Compose**
 
