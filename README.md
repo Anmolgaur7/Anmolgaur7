@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol Gaur</h1>
+<h1 align="center">Hi 👋, I'm Anmol  Gaur</h1>
 <h3 align="center"><i><b>An emerging web developer from India</b></i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolgaur7&label=Profile%20views&color=0e75b6&style=flat" alt="anmolgaur7"  /> </p>
